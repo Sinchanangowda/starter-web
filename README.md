@@ -14,3 +14,4 @@ Checking deployment
 ## How to contribute
 
 Checking statges
+##copyright
