@@ -8,6 +8,9 @@ This is example to show diff
 Adding Purpose
 
 ## deployment
+Checking deployment
+
 
 ## How to contribute
 
+Checking statges
